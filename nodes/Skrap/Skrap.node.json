@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-skrap.skrap",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Sales", "Marketing & Content", "Data & Storage"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://skrap.ai/docs/n8n#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://skrap.ai/docs/n8n"
+			}
+		]
+	}
+}
